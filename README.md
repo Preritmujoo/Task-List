@@ -6,7 +6,7 @@ A simple and elegant task management application built with HTML, CSS, and JavaS
 - Persistent storage using localStorage
 - Delete tasks by entering task number
 - Tasks remain visible after page refresh
-- Clean and modern UI design
+- Clean and simple UI design
 
 ## Technologies Used
 - HTML5
@@ -19,4 +19,4 @@ A simple and elegant task management application built with HTML, CSS, and JavaS
 ![Third](https://github.com/user-attachments/assets/fe07ff89-a85f-45f4-b861-7e87cfa4de14)
 
 ## Link
-You can access this site here
+You can access this site [here](https://taupe-pasca-14a561.netlify.app/])
