@@ -14,9 +14,11 @@ A simple and elegant task management application built with HTML, CSS, and JavaS
 - JavaScript (ES6+)
 
 ## Screenshots
-![First](https://github.com/user-attachments/assets/1ebbf8f9-d811-4c15-a806-1394146ae3c6)
+![First](https://github.com/user-attachments/assets/46d50ae9-0123-48c5-b744-3d3416d2559b)
+![Fifth](https://github.com/user-attachments/assets/272eb5b3-56be-42e6-944b-cbd301365d2e)
 ![Second](https://github.com/user-attachments/assets/c46ff65d-f809-4576-91d6-8b43abcbccd0)
-![Third](https://github.com/user-attachments/assets/fe07ff89-a85f-45f4-b861-7e87cfa4de14)
+![Fourth](https://github.com/user-attachments/assets/47af86cd-c776-4d40-b8e3-b9ab94eff9f9)
+
 
 ## Link
 You can access this site [here](https://taupe-pasca-14a561.netlify.app/)
